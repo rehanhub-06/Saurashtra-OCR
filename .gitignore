@@ -1,0 +1,14 @@
+# Dataset
+dataset/
+
+# Models
+*.h5
+*.hdf5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
