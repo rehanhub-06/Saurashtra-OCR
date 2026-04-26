@@ -219,7 +219,7 @@ python predict.py
 3. Load the image and view predictions
 
 ---
-![Prediction Output](Prediction_ Output.jpeg)
+![Prediction Output](Prediction_Output.jpeg)
 
 ## Installation
 
