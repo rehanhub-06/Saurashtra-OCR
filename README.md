@@ -241,7 +241,7 @@ pip install -r requirements.txt
 
 ## Limitations
 
-* Dataset not included due to size
+* Dataset not included due to size but you can make your own dataset using slice_characters.py and augment_dataset.py.
 * Performance depends on handwriting quality
 * Manual dataset creation is time-intensive
 
